@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57" started-at="2018-04-01T19:34:56Z" finished-at="2018-04-01T19:34:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57" started-at="2018-04-01T19:34:56Z" finished-at="2018-04-01T19:34:56Z">
+      <class name="qaclickacademy.RestApiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclickacademy.RestApiTest@67b6d4ae]" name="deleteTwitter" duration-ms="0" started-at="2018-04-01T19:34:56Z" finished-at="2018-04-01T19:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qaclickacademy.RestApiTest@67b6d4ae]" name="postJira" duration-ms="0" started-at="2018-04-01T19:34:56Z" finished-at="2018-04-01T19:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.RestApiTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@2d3fcdbd]" name="BrowserAutomation" duration-ms="17" started-at="2018-04-01T19:34:56Z" finished-at="2018-04-01T19:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:qaclickacademy.SeleniumTest@2d3fcdbd]" name="elementsUi" duration-ms="1" started-at="2018-04-01T19:34:56Z" finished-at="2018-04-01T19:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
